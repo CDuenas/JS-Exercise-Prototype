@@ -108,10 +108,10 @@ Baby.prototype.play = function (){
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. Default binding calls the standalone function
+  2. Implicit binding ties the this keyword to the object its infront of
+  3. Explicit binding ties the this keyword to a function outside of the function where it is being called
+  4. new binding the this is is applied to the new 
 */
 
 
